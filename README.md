@@ -8,8 +8,6 @@ See here of paper: https://www.cs.ubc.ca/labs/algorithms/Projects/End2EndSAT/pap
 Download repository and change directories:\
 `git clone https://github.com/ChrisCameron1/End2EndSAT.git && cd End2EndSAT`
 
-Add this repository to your python path: 
-
 Download data:\
 `wget https://www.cs.ubc.ca/labs/algorithms/Projects/End2EndSAT/data.zip && unzip data.zip`
 
