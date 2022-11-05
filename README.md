@@ -14,8 +14,8 @@ Download data:\
 We recommend to use with CometML for monitoring experiments. Please create a free cometML account at https://www.comet.com/site/. Open the `mypaths.py` file and replace with you username and key.
 
 ``` 
-COMET={'un': '',
-       'key': ''} 
+COMET={'un': '[your_username]',
+       'key': '[your_key]'} 
 ```
 
 Each directory in `data/` corresponds to a different dataset. To run with the hyper paramters from the paper on the `100` variable dataset, run:
